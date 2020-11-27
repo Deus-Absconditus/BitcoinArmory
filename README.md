@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/etotheipi/BitcoinArmory)
+
 ##Armory
 
 **Created by Alan Reiner on 13 July, 2011**
